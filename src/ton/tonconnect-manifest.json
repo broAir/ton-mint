@@ -1,0 +1,7 @@
+{
+    "url": "https://localhost:3000",
+    "name": "test-mint-nft",
+    "iconUrl": "https://localhost:3000/favicon.ico",
+    "termsOfUseUrl": "<terms-of-use-url>",
+    "privacyPolicyUrl": "<privacy-policy-url>"
+}
